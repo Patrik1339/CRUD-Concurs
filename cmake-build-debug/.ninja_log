@@ -1,0 +1,9 @@
+# ninja log v6
+130	231	7626066148783888	Concurs_de_programare_c.exe	aee9d7d0107e9c05
+4	103	7626066147519703	CMakeFiles/Concurs_de_programare_c.dir/main.c.obj	7c99b6f356b7c1c0
+29	130	7626066147772310	CMakeFiles/Concurs_de_programare_c.dir/Prezentare/Ui.c.obj	4162b2d769431edb
+9	97	7625610382326612	CMakeFiles/Concurs_de_programare_c.dir/Domeniu/Participant.c.obj	d75c9c771057b1e2
+8	116	7626066147565097	CMakeFiles/Concurs_de_programare_c.dir/Teste/Teste.c.obj	f4e2846afa9fdae5
+21	125	7626066147689661	CMakeFiles/Concurs_de_programare_c.dir/Controller/Service.c.obj	4049a75f1db67495
+14	118	7626066147627874	CMakeFiles/Concurs_de_programare_c.dir/Repository/Repository.c.obj	ac0a7740adccfb6a
+25	113	7625657473376996	CMakeFiles/Concurs_de_programare_c.dir/Repository/VectorDinamic.c.obj	521cd2cfdefc91ca

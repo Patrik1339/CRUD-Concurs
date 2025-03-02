@@ -1,0 +1,3 @@
+Aladin Fermecatu 5.000000
+XY Z 15.000000
+BC DEF 11.000000
